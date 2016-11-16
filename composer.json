@@ -22,16 +22,14 @@
     ],
 
     "require": {
-        "symfony/symfony": "dev-master",
-        "sensio/framework-extra-bundle": "~3.0",
-        "doctrine/orm": "~2.2,>=2.2.3",
-        "doctrine/doctrine-bundle": "~1.2",
+        "symfony/symfony": "*",
+        "sensio/framework-extra-bundle": "*",
         "doctrine/doctrine-fixtures-bundle": "~2.2",
-        "gedmo/doctrine-extensions": ">=2.3.9",
-        "vich/uploader-bundle": "dev-master",
+        "gedmo/doctrine-extensions": "*",
+        "vich/uploader-bundle": "*",
         "themattharris/tmhoauth": "*",
-        "facebook/php-sdk-v4" : "dev-master",
-        "php-instagram-api/php-instagram-api": "dev-master"
+        "facebook/php-sdk-v4" : "*",
+        "php-instagram-api/php-instagram-api": "*"
     },
 
     "config": {
